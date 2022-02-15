@@ -97,7 +97,7 @@
  @media (max-width: 780px) {
      body{
          display: block;
-         background: url('/images/bg-mobile.svg') var(--violet) no-repeat;
+         background: url('../images/bg-mobile.svg') var(--violet) no-repeat;
          background-size: 100%;
          font-family: 'Poppins', sans-serif;
          color: #fff;
