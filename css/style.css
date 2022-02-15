@@ -93,8 +93,7 @@
      color: var(--softmagenta);
      border:1px solid var(--softmagenta);
 }
-}
- footer{
+ footer p{
      text-align: center;
 }
  .attribution a {
