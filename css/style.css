@@ -32,6 +32,9 @@
      margin-bottom: 2em;
      opacity: 0.7;
 }
+ a{
+  text-decoration: none;
+ }
  main{
      max-width: 100%;
      width: 1200px;
@@ -83,10 +86,13 @@
      margin: 0.5em;
      width: 1em;
      text-align: center;
+     font-style: normal;
+     text-decoration: none;
 }
  .fa-brands:hover{
      color: var(--softmagenta);
      border:1px solid var(--softmagenta);
+}
 }
  footer{
      text-align: center;
